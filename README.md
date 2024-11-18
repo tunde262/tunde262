@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm on a mission to create <b>$1B+ in value</b> for other people.<br><br>🤓 As a long-time science nerd 🤓, I try to use my creative thinking skills to engineer cool new things. <br><br>I graduated with a degree in **Computer Science** and have since immersed myself in Software Development, Data Science, AI, Computer Vision, and more.</p>
+<p align="left">I'm on a mission to create <b>$1B+ in value</b> for other people.<br><br>🤓 As a long-time science nerd 🤓, I try to use my creative thinking skills to engineer cool new things. <br><br>I graduated with a degree in <b>Computer Science</b> and have since immersed myself in Software Development, Data Science, AI, Computer Vision, and more.</p>
 
 ###
 
