@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Tunde!</h1>
+# Hey there, I'm Tunde! <img src="./wave.gif" width="35px" height="35px" alt="wave" />
 
 ###
 
