@@ -55,11 +55,11 @@
 🎞️ Latest Tech Videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Detect + Track Color with OpenCV | Python Project](https://youtube.com/shorts/l8dJ42YtlxA?feature=share)
 - [System Design | Build a Chat App in 3 Minutes](https://www.youtube.com/watch?v=4SOpGJ2kIV0)
 - [Python | Build a Face Detector with OpenCV (2025) | Easy Project](https://youtu.be/ykObUM3jAUU?si=w6e8vh691lIFrtl9)
 - [Python | Build a Calculator (2025) | Easy Project](https://youtu.be/hGm3sQQjgzU?si=UKEjggJEKWLimRM7)
 - [Python Interview Challenge | Longest Even Number](https://www.youtube.com/shorts/bLCk3M2XBXY)
-- [PYTHON QUIZ | Guess The Output](https://www.youtube.com/shorts/GOg9NT4oRFQ)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more tech videos](https://www.youtube.com/@tunde-tv)
